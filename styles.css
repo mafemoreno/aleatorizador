@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F6EDE7;
+}
+
+header, footer {
+    background-color: #F16E51;
+    color: #F6EDE7;
+    text-align: center;
+    padding: 1em 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#headerImage {
+    align-items: center;
+    width: 30%;
+    height: auto;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #3E7766;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+#bodyImage {
+    top: 50px; /* Ajusta según la posición deseada */
+    left: 50px; /* Ajusta según la posición deseada */
+    width: 36%; /* Ajusta el tamaño de la imagen */
+    height: auto;
+}
+
+button:hover {
+    background-color:#41a587;
+}
