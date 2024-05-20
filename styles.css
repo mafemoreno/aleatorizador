@@ -18,7 +18,7 @@ header, footer {
 
 #headerImage {
     align-items: center;
-    width: 30%;
+    width: 10%;
     height: auto;
 }
 
@@ -41,7 +41,7 @@ button {
 #bodyImage {
     top: 50px; /* Ajusta según la posición deseada */
     left: 50px; /* Ajusta según la posición deseada */
-    width: 36%; /* Ajusta el tamaño de la imagen */
+    width: 26%; /* Ajusta el tamaño de la imagen */
     height: auto;
 }
 
